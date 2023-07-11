@@ -1,0 +1,10 @@
+Instruction Codes
+• An instruction code is a group of bits that instruct
+the computer to perform a specific operation.
+• The operation code of an instruction is a group of
+bits that define operations such as addition,
+subtraction, shift, complement, etc.
+• An instruction must also include one or more
+operands, which indicate the registers and/or
+memory addresses from which data is taken or to
+which data is deposited.
